@@ -1,1 +1,1 @@
-{"version":"v1.1.7","push":true}
+{"version":"v1.1.8","push":true}
